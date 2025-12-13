@@ -116,15 +116,7 @@ GET    /api/users/points     # Get loyalty points
 
  
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 🧱 Project Structure
-=======
-🏗️ Architecture
->>>>>>> e2cd3c9 (Create README.md)
-=======
-🧱 Project Structure
->>>>>>> 6bbd8c7 (Rename section 'Architecture' to 'Project Structure')
 
 ```
 
@@ -155,7 +147,5 @@ e-commerce-project/
 🎯 Project Purpose
 
 This project was developed by students as part of their learning journey within the Digital Egypt Pioneers Initiative (DEPI).
-
-
 
 It demonstrates practical full-stack development skills including frontend design, backend APIs, authentication, admin management, payment integration, and loyalty system implementation
